@@ -1,0 +1,88 @@
+*{margin: 0;padding: 0;text-decoration: none;}
+
+  header nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+  }
+
+  header nav ul li{
+      list-style: none;
+    }
+
+  header nav ul li a{
+    color: #000000;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 2em;
+  }
+
+header nav.submeuu{
+  display: none;
+}
+
+header nav a:hover{
+  color: #497250;
+}
+  .menu1{width: 900px;display: flex;justify-content: center;}
+  .menu3{width: 120px;}
+  .meun4{background-color: #497250;
+  width: }
+
+  .main{
+  width: 100%;
+  height: 688px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 120px;
+  }
+
+  .letter{
+  width: 100%;
+  height: 210.54px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
+  }
+
+  .design{
+  width: 100%;
+  height: 796px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  background-image: url('img/main_photo_01.png');
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
+
+  .worldart{
+    width: 100%;
+    height: 112px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+  }
+.art{
+  width: 100%;
+  height: 743px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gray{
+  width: 100%;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+}
